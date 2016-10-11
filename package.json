@@ -1,0 +1,31 @@
+{
+  "name": "tnpm",
+  "version": "1.0.0",
+  "description": "Call npm using Taobao registry with '--registry=https://registry.npm.taobao.org'",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tnpm": "./bin/tnpm"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+    "tnpm",
+    "taobao",
+    "cnpm",
+    "npm"
+  ],
+  "author": "Emeryao",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Emeryao/tnpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Emeryao/tnpm/issues"
+  },
+  "license": "MIT",
+  "preferGlobal": true
+}
