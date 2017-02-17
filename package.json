@@ -1,6 +1,6 @@
 {
   "name": "tb-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Call npm using Taobao registry with '--registry=https://registry.npm.taobao.org'",
   "main": "dist/app.js",
   "scripts": {
