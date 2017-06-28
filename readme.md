@@ -1,3 +1,7 @@
+# WARN
+It seems that Taobao npm registry is not working well with the latest `npm@5` so please prefer official npm if possible
+
+
 [![NPM](https://nodei.co/npm/tb-npm.png?downloads=true&stars=true)](https://nodei.co/npm/tb-npm/)
 
 # tnpm
